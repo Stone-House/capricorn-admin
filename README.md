@@ -1,0 +1,1 @@
+MongoDB + Shiro + Swagger UI + Redis
