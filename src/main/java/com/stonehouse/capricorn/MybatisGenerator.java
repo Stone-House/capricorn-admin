@@ -1,4 +1,4 @@
-package com.stonehouse.capricornadmin;
+package com.stonehouse.capricorn;
 
 /**
  * @author Libin

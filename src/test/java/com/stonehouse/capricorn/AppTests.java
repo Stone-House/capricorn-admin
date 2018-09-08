@@ -1,4 +1,4 @@
-package com.stonehouse.capricornadmin;
+package com.stonehouse.capricorn;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

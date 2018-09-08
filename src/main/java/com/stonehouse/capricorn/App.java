@@ -1,4 +1,4 @@
-package com.stonehouse.capricornadmin;
+package com.stonehouse.capricorn;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
